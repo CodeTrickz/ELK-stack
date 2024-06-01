@@ -10,5 +10,4 @@ ELK-Stack wordt gebruikt als monitoring tool van hosts waar agents op geinstalle
 Deze repo is een onderdeel van een groter geheel waarbij doormiddel van ansible alles automatisch wordt gedeployed.
 
 Deze compose files zijn nog niet volledig uitgewerkt. # ELK-stack
-# ELK-stack
-# ELK-stack
+
